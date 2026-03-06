@@ -13,11 +13,9 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter basename="/nxtgen">
-        <Routes>
-          <Route path="/" element={<Index />} />
-        </Routes>
-      </BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Index />} />
+      </Routes>
       <ChatAssistant />
     </TooltipProvider>
   </QueryClientProvider>
