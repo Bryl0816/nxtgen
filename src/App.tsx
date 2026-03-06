@@ -13,7 +13,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter basename="/nxtgen">
         <Routes>
           <Route path="/" element={<Index />} />
         </Routes>
