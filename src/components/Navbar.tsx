@@ -93,7 +93,7 @@ const Navbar = () => {
       <div className="flex-shrink-0 flex items-center">
         <Link to="/" className="flex items-center">
           <img 
-            src="public/favicon/nxtgen-2.png"     
+            src="/favicon/nxtgen-2.png"     
             className="h-12 w-auto object-contain"
           />
         </Link>

@@ -12,25 +12,25 @@ const teams = [
     name: "Mc Denver Alba",
     position: "Developer",
     description: "Specializes in building scalable and high-performance web and mobile applications with a strong focus on clean architecture, security, and seamless user experience.",
-    image: "public/favicon/MC.png"
+    image: "/favicon/MC.png"
   },
   {
     name: "Michael De Leon",
     position: "Developer",
     description: "Passionate about developing efficient, reliable, and user-focused digital solutions using modern technologies to drive business growth and innovation.",
-    image: "public/favicon/MD.png"
+    image: "/favicon/MD.png"
   },
   {
     name: "Brylon Fayosal",
     position: "Developer/Designer",
     description: "Combines technical expertise with creative vision to craft powerful web and mobile applications alongside visually compelling designs that enhance brand identity.",
-    image: "public/favicon/Bryl.png"
+    image: "/favicon/Bryl.png"
   },
   {
     name: "Marc Paul Tuquilar",
     position: "Developer/Designer",
     description: "Brings together development skills and strong design aesthetics to create intuitive, visually engaging digital experiences that deliver both function and impact.",
-    image: "public/favicon/MP.png"
+    image: "/favicon/MP.png"
   }
 ];
 

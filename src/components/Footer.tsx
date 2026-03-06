@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="col-span-1 md:col-span-1">
             <a href="#" className="inline-block mb-4">
               <img 
-                src="public/favicon/nxtgen-2.png" 
+                src="/favicon/nxtgen-2.png" 
                 alt="NXT Gen" 
                 className="h-12 w-auto"
               />

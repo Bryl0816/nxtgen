@@ -71,7 +71,7 @@ const HeroSection = () => {
               <div className="absolute inset-0 bg-gradient-to-r from-saas-orange to-orange-700 blur-xl opacity-20 rounded-xl"></div>
               <div className="relative bg-saas-darkGray rounded-xl border border-saas-orange/20 p-2 card-shadow transform transition-all duration-500 hover:scale-[1.01] hover:shadow-orange-500/10 hover:shadow-lg">
                 <img 
-                  src="public/favicon/hero-sec.png"
+                  src="/favicon/hero-sec.png"
                   alt="Dashboard Preview"
                   className="rounded-lg w-full"
                 />
