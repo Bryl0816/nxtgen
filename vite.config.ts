@@ -3,8 +3,8 @@ import react from "@vitejs/plugin-react-swc";
 import path from "path";
 
 export default defineConfig({
-  // For GitHub Pages under /nxtgen
-  base: "/nxtgen",
+  // For Vercel, usually root "/"
+  base: "/",
 
   server: {
     host: "::",
