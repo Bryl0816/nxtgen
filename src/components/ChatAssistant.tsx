@@ -47,15 +47,15 @@ const ChatAssistant = () => {
     } else if (lowerMessage.includes('design') || lowerMessage.includes('graphic')) {
       return 'Our Graphic Design service includes Logo Design, Brand Identity, Marketing Materials, UI/UX Design, and Social Media Graphics. What design services do you need?';
     } else if (lowerMessage.includes('price') || lowerMessage.includes('cost') || lowerMessage.includes('quote')) {
-      return 'For pricing information and custom quotes, please contact us directly. You can reach us at nxtgen@gmail.com or call +63 975 444 7123.';
+      return 'For pricing information and custom quotes, please contact us directly. You can reach us at support.nxtgen@gmail.com or call +63 975 444 7123.';
     } else if (lowerMessage.includes('contact') || lowerMessage.includes('email') || lowerMessage.includes('phone')) {
-      return 'You can contact us at:\n📧 nxtgen@gmail.com\n📞 +63 975 444 7123\n📍 Cauayan City, Isabela\n\nOr visit our Facebook page for more updates!';
+      return 'You can contact us at:\n📧 support.nxtgen@gmail.com\n📞 +63 975 444 7123\n📍 Cauayan City, Isabela\n\nOr visit our Facebook page for more updates!';
     } else if (lowerMessage.includes('thank')) {
       return 'You\'re welcome! Is there anything else I can help you with?';
     } else if (lowerMessage.includes('bye') || lowerMessage.includes('goodbye')) {
       return 'Thank you for visiting NXTGEN! Feel free to reach out anytime. Have a great day!';
     } else {
-      return 'Thank you for your message! For specific inquiries about our services, pricing, or to start a project, please contact us directly at nxtgen@gmail.com or visit our Facebook page.';
+      return 'Thank you for your message! For specific inquiries about our services, pricing, or to start a project, please contact us directly at support.nxtgen@gmail.com or visit our Facebook page.';
     }
   };
 
