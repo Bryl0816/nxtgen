@@ -16,8 +16,8 @@ const Footer = () => {
               />
             </a>
             <p className="text-gray-400 mb-4">
-              Transform your business with our cutting-edge SaaS solution
-              designed for modern companies.
+              Powering Businesses Through Digital Innovation.<br/>
+              Smart technology solutions designed to help your business grow faster and work smarter.
             </p>
           </div>
 

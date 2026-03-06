@@ -8,7 +8,7 @@ const Services = () => {
     {
       icon: <Smartphone className="h-8 w-8 text-saas-orange" />,
       name: 'Mobile App Development',
-      description: 'Powerful Native Android Applications to Streamline Your Business',
+      description: 'Powerful Android and iOS Apps Designed to Streamline Your Business',
       features: [
         'iOS & Android Development',
         'Flutter',
