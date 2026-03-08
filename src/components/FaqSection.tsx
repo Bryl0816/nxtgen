@@ -9,18 +9,6 @@ import {
 
 const teams = [
   {
-    name: "Mc Denver Alba",
-    position: "Developer",
-    description: "Specializes in building scalable and high-performance web and mobile applications with a strong focus on clean architecture, security, and seamless user experience.",
-    image: "/favicon/MC.png"
-  },
-  {
-    name: "Michael De Leon",
-    position: "Developer",
-    description: "Passionate about developing efficient, reliable, and user-focused digital solutions using modern technologies to drive business growth and innovation.",
-    image: "/favicon/MD.png"
-  },
-  {
     name: "Brylon Fayosal",
     position: "Developer/Designer",
     description: "Combines technical expertise with creative vision to craft powerful web and mobile applications alongside visually compelling designs that enhance brand identity.",
@@ -47,7 +35,7 @@ const TeamSection = () => {
           </p>
         </div>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8 justify-items-center">
           {teams.map((member, index) => (
             <div 
               key={index}
