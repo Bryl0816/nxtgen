@@ -154,7 +154,7 @@ const Navbar = () => {
                     : "text-white hover:text-saas-orange"
                 }`}
               >
-                Team
+                Technology Stack
               </button>
               <button
                 onClick={() => handleNavClick('contact')}

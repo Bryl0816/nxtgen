@@ -74,7 +74,7 @@ const Footer = () => {
                   }}
                   className="text-gray-400 hover:text-saas-orange transition-colors text-left"
                 >
-                  Team
+                  Technology Stack
                 </button>
               </li>
               <li>
