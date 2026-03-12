@@ -16,8 +16,8 @@ const Footer = () => {
               />
             </a>
             <p className="text-gray-400 mb-4">
-              Powering Businesses Through Digital Innovation.<br/>
-              Smart technology solutions designed to help your business grow faster and work smarter.
+              Powering Businesses Through Digital Innovation
+              Smart technology solutions that help your business grow faster and operate smarter.
             </p>
           </div>
 
