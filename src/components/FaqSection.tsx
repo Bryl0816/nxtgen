@@ -63,7 +63,7 @@ const TechnologiesSection = () => {
                 <img 
                   src={tech.image}
                   alt={tech.name}
-                  className="w-27 h-27 mx-auto object-contain"
+                  className="w-22 h-22 mx-auto object-contain"
                 />
               </div>
               
