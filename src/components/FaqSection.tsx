@@ -19,6 +19,11 @@ const technologies = [
     image: "/tech/php.png"
   },
   {
+    name: "Python",
+    description: "High-level programming language known for its simplicity and versatility in web development, data science, and automation.",
+    image: "/tech/python.png"
+  },
+  {
     name: "MySQL",
     description: "Leading open-source relational database management system for storing and managing data efficiently.",
     image: "/tech/mysql.png"
@@ -32,11 +37,6 @@ const technologies = [
     name: "Figma",
     description: "Collaborative interface design tool for creating, prototyping, and sharing user interface designs.",
     image: "/tech/figma.png"
-  },
-  {
-    name: "Canva",
-    description: "Online design platform that empowers users to create stunning graphics, presentations, and social media content.",
-    image: "/tech/canva.png"
   }
 ];
 
